@@ -4,14 +4,14 @@ I'm Anmol! I'm a **Software Developer**:iphone:, looking to solve **real-world p
 
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anmolsharma23/)
-[![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:as3593@scarletmail.rutgers.edu)
-[![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_anmolsharma23/)
+
 
 
 
 ## Contact
 <a href="https://www.instagram.com/_anmolsharma23/">![Instagram](https://img.shields.io/badge/_anmolsharma23-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/AnmolSh30407651">![Twitter](https://img.shields.io/badge/LachlanDev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+[![Linkedin](https://img.shields.io/badge/-anmolsharma23-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anmolsharma23/)
+[![Gmail](https://img.shields.io/badge/-anmolsharma-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:as3593@scarletmail.rutgers.edu)
 
 -------------------
 
