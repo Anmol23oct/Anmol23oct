@@ -20,9 +20,9 @@ I'm Anmol! I'm a **Software Developer**:iphone:, looking to solve **real-world p
   
 -------------------
 
-![anmol23oct github stats](https://github-readme-stats.vercel.app/api?username=LachlanDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![anmol23oct github stats](https://github-readme-stats.vercel.app/api?username=anmol23oct&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![anmol23oct github streak](https://github-readme-streak-stats.herokuapp.com/?user=LachlanDev&theme=radical&include_all_commits=true&count_private=true)
+![anmol23oct github streak](https://github-readme-streak-stats.herokuapp.com/?user=anmol23oct&theme=radical&include_all_commits=true&count_private=true)
 
 
 
