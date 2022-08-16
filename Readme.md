@@ -11,7 +11,7 @@ I'm Anmol! I'm a **Software Developer**:iphone:, looking to solve **real-world p
 ## Contact
 <a href="https://www.instagram.com/_anmolsharma23/">![Instagram](https://img.shields.io/badge/_anmolsharma23-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> 
 <a href="https://twitter.com/AnmolSh30407651">![Twitter](https://img.shields.io/badge/AnmolSh30407651-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/anmolsharma23/">![LinkedIn](https://img.shields.io/badge/_anmolsharma23-%23E4405F.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/anmolsharma23/">![LinkedIn](https://img.shields.io/badge/_anmolsharma23-%23E4405F.svg?style=for-the-badge&logo=LinkedIn&logoColor=Blue)</a>
 
 -------------------
 
@@ -24,7 +24,7 @@ I'm Anmol! I'm a **Software Developer**:iphone:, looking to solve **real-world p
 
 ![anmol23oct github streak](https://github-readme-streak-stats.herokuapp.com/?user=anmol23oct&theme=radical&include_all_commits=true&count_private=true)
 
-<a href="https://komarev.com/ghpvc/?username=anmol23oct&style=flat">![Github](https://img.shields.io/badge/anmol23oct-%23E4405F.svg?style=for-the-badge&logo=Github&logoColor=white)</a> 
+![](https://komarev.com/ghpvc/?username=anmol23oct&style=flat)
 
 
 
