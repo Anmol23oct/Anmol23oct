@@ -1,6 +1,6 @@
 # Hi there, I'm Anmol👋 
 
-I'm Anmol! I'm a **Software Developer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**.
+I'm a **Software Developer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. I like to hike, swimming abd play sports like Lawn Tennis and badminton.
 
 
 <!-- Your badges -->
